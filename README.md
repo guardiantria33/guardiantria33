@@ -10,6 +10,8 @@
 
 -
 - 📫 How to reach me ...
+LinkedIn : www.linkedin.com/in/guardian-tri-anggoro-5122701a2
+
 
 <!---
 guardiantria33/guardiantria33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
